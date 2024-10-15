@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @PrabhatRe
-- 🌱 I’m currently learning Web Dev 
-- 📫 How to reach me my twitter handle @PrabhatRe
 - 😄 Pronouns: He/Him
 
 
